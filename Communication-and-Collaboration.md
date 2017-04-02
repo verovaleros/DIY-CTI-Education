@@ -15,5 +15,5 @@ Communication & Collaboration encompass the following skills:
 
 ### Literature Review
 
-- Friedly, J. C. (2004). Top Ten Ways to Improve Technical Writing. CHEMICAL ENGINEERING EDUCATION, 38(1), 54-59. Chicago	
+[1] Friedly, J. C. (2004). Top Ten Ways to Improve Technical Writing. CHEMICAL ENGINEERING EDUCATION, 38(1), 54-59. Chicago	
 
