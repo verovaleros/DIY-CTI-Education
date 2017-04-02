@@ -60,7 +60,4 @@ For each category there are a few areas or themes specified:
 
 The content here will be organized following the above structure, because is clear and well defined.
 
-# References
-1. "White Paper – CITP Training and Education", http://www.sei.cmu.edu/about/organization/etc/citp-training-and-education.cfm, accessed on 02/04/2017.
-
 [1]: http://www.sei.cmu.edu/about/organization/etc/citp-training-and-education.cfm "White Paper – CITP Training and Education"
