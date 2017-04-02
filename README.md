@@ -5,7 +5,7 @@ This is my attempt to document my DYI education on CTI (Cyber Threat Intelligenc
 Is simple. I had basic information security education at University, but not profound. I'm interested in learning more about CTI, but there aren't any guides. While I'm looking for material, reading through it, summarizing it, why not documenting it here so other people may benefit from it.
 
 # Carnegie Mellon Core Competencies of a Cyber Intelligence Analyst
-The Carnegie Mellon SEI Emerging Technology Center (SEI ETC) conducted a research project called Cyber Intelligence Tradecraft Project (CITP) in 2012. As part of that research, they identified and documented the [Core Competencies & Skills of a Cyber Intelligence Analyst] [1]. These compentencies are comprised of a set of teachable skills, which are grouped as follow:
+The Carnegie Mellon SEI Emerging Technology Center (SEI ETC) conducted a research project called Cyber Intelligence Tradecraft Project (CITP) in 2012. As part of that research, they identified and documented the Core Competencies & Skills of a Cyber Intelligence Analyst [1](http://www.sei.cmu.edu/about/organization/etc/citp-training-and-education.cfm). These compentencies are comprised of a set of teachable skills, which are grouped as follow:
  
 - Computing Fundamentals
 - Communication & Collaboration
